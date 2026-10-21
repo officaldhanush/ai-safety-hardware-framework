@@ -17,7 +17,7 @@
 - [ ] Review risk assessment guidelines (e.g., NIST AI Risk Management Framework: Govern, Map, Measure, Manage).
 
 ### Phase 2: Hardware-Level Safety Integration (ECE Focus)
-- [ ] **Design for Debug (DfDbg):** 
+- [ ] **Design for Debug (DfD):** 
   - [ ] Explore concepts of physical hardware debug taps and dedicated execution-monitoring lines on silicon.
   - [ ] Investigate real-time readout mechanisms for chip power, memory buses, and processing states independent of software.
 - [ ] **Design for Disassembly (DfD):**
