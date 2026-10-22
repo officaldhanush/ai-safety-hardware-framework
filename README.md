@@ -7,8 +7,6 @@
 ---
 
 ## 📚 Curriculum Modules & Notes
-
-- 📄 **[README.md](./README.md):** Repository Overview & Roadmap
 - 📄 **[lesson-02.md](./lesson-02.md):** Physical Hardware Risk, Air-Gapping & Design for Disassembly (DfD)
 
 ---
