@@ -10,6 +10,7 @@
 
 - 📄 **[lesson-02.md](./lesson-02.md):** Physical Hardware Risk, Air-Gapping & Design for Disassembly (DfD) 🔒
 - 📄 **[lesson-03.md](./lesson-03.md):** Design for Debug (DfDbg) & Observational Independence 🔍
+- 📄 **[lesson-04.md](./lesson-04.md):** Deterministic Halting & Forensic Hardware State 🛑
 
 ---
 
@@ -27,14 +28,15 @@
 - [x] **Design for Debug (DfDbg):** 
   - [x] Explore concepts of physical hardware debug taps and dedicated execution-monitoring lines on silicon (`lesson-03.md`).
   - [x] Investigate real-time readout mechanisms for chip power, memory buses, and processing states independent of software (`lesson-03.md`).
+  - [x] Implement post-failure forensic analysis using hardware state preservation (`lesson-04.md`).
 - [x] **Design for Disassembly (DfD) & Physical Containment:**
   - [x] Study modular hardware rack architectures and physical air-gapping (`lesson-02.md`).
-  - [x] Map out emergency power-severing mechanisms, side-channel emissions, and hardware fail-switches (`lesson-02.md`).
+  - [x] Map out emergency power-severing mechanisms, side-channel emissions, and hardware fail-switches (`lesson-02.md`, `lesson-04.md`).
 
 ### Phase 3: Documentation & Version Control 📦
 - [x] Initialize GitHub repository for AI safety and hardware notes.
 - [x] Pin repository to GitHub profile.
-- [x] Add modular lesson documentation (`lesson-02.md`, `lesson-03.md`).
+- [x] Add modular lesson documentation (`lesson-02.md`, `lesson-03.md`, `lesson-04.md`).
 
 ---
 
